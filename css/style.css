@@ -1,0 +1,42 @@
+
+
+
+body {
+  margin: 0; 
+  padding: 0;
+  font-size: 48px;
+  font-family: 'Source Sans Pro', sans-serif;
+  height: 2000px;
+}
+
+.coverTop {
+  max-width: 100%;
+  width: 1680px;
+  height: 511px;
+}
+.coverBottom {
+  max-width: 100%;
+  width: 1680px;
+  height: 511px;
+
+  text-align: center;
+}
+
+.split {
+width: 1680px;
+height: 511px;
+
+}
+.SecondLayerContainer{
+  z-index: -1;
+  margin: auto;
+  position: fixed;
+  top: 0;
+}
+.SecondImg{
+   width: 200px;
+   height: auto;
+  
+}
+
+
